@@ -1,2 +1,3 @@
 Hello World. Meu primeiro arquivo versionado no Git.
-Inserindo segunda linha.
+
+Linha 3.
